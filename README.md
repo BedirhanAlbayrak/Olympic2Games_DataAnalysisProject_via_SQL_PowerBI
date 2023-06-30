@@ -1,4 +1,4 @@
-# OlympicGames_DataAnalysisProject_via_SQL_PowerBI
+# OlympicGames_DataAnalystProject_via_SQL_PowerBI
 # Business Request
 "As a data analyst working at a news company, I am asked to visualize data that will help readers understand how countries have performed historically in the summer Olympic Games. And also know that there is an interest in details about the competitors, so if you find anything interesting, don’t hesitate to bring that in. 
 The main task is still to show historical performance for different countries, with the possibility to select your own country."
